@@ -31,6 +31,7 @@ public class TestProject {
            result = i1 * i2;
         // end of code
         return result;
+
     }
 
     /**
